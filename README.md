@@ -1,2 +1,3 @@
 # ft_printf
-The ft_printf subject is available above in this repo.
+You can click [here](https://github.com/limdem/ft_printf/files/10908805/en.subject.pdf) to have a look at the project subject!
+
